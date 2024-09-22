@@ -1,4 +1,4 @@
-### Olá, meu nome é João 
+### Hey, I'm João
 
 ![João GitHub stats](https://github-readme-stats.vercel.app/api?username=J-V-S-C&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=J-V-S-C&layout=donut&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
