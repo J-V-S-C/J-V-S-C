@@ -13,10 +13,12 @@ jobs:
         uses: actions/checkout@v4  # Atualizado para v4
 
       - name: Gerar a Snake 🐍
-        uses: Platane/snk/svg-only@v3
+        uses: Platane/snk@v3  # Gera tanto SVG quanto GIF
         with:
           github_user_name: ${{ github.repository_owner }}
-          outputs: dist/github-snake.svg
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake.gif
           config: "palette=github-dark"
 
       - name: Publicar no GitHub Pages
