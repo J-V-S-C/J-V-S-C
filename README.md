@@ -40,6 +40,6 @@
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)"/>
   </div>
 
-##My contributions
+## My contributions
 ![Snake animation](https://github.com/J-V-S-C/J-V-S-C/blob/output/github-snake.svg)
 
