@@ -41,5 +41,5 @@
   </div>
 
 ## My contributions
-![Snake animation](https://github.com/J-V-S-C/J-V-S-C/blob/output/github-snake.svg)
+![Snake animation](https://github.com/J-V-S-C/J-V-S-C/blob/output/github-snake.gif)
 
