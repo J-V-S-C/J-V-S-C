@@ -40,5 +40,12 @@
   <img align="center" alt="Unity" src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)"/>
   </div>
 
+## My contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/J-V-S-C/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/J-V-S-C/output/github-snake.svg" />
+  <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/J-V-S-C/output/github-snake.svg" />
+</picture>
 
 
