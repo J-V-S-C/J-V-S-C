@@ -9,7 +9,7 @@ Full-Stack Developer
   <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img align="center" alt="Node" src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <br>
-  <img align="center" alt="PHP" src="[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)"/>
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white"/>
   <img align="center" alt="Golang" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
